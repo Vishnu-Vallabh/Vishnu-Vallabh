@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Hi, I'm Vishnu. I'm a Computer Science student from Osmania University. I enjoy coding, building web apps, and exploring areas like AI and data engineering. I'm currently learning new technologies and open to internship opportunities.
 
